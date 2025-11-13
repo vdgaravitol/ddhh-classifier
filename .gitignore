@@ -1,0 +1,11 @@
+# Ignorar modelos grandes y artefactos de entrenamiento
+data/models/**/*.pkl
+data/models/**/*.pt
+data/models/**/*.bin
+data/models/**/*.safetensors
+*.zip
+*.tar.gz
+*.docx
+*.pdf
+__pycache__/
+.ipynb_checkpoints/

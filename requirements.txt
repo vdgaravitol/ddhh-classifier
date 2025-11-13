@@ -1,0 +1,36 @@
+# === Librerías base ===
+pandas==2.2.2
+numpy==1.26.4
+
+# === Visualización y análisis ===
+matplotlib==3.9.2
+seaborn==0.13.2
+wordcloud==1.9.3
+
+# === Procesamiento y limpieza de texto ===
+langdetect==1.0.9
+nltk==3.9.1
+regex==2024.5.15
+
+# === Machine Learning clásico ===
+scikit-learn==1.5.1
+joblib==1.4.2
+
+# === Modelos semánticos y embeddings ===
+sentence-transformers==3.0.1
+umap-learn==0.5.6
+
+# === Deep Learning y Transformers ===
+torch==2.4.0
+transformers==4.44.2
+tqdm==4.66.5
+
+# === API y despliegue ===
+fastapi==0.115.0
+uvicorn==0.30.6
+
+# === Utilidades del sistema ===
+python-dateutil==2.9.0.post0
+
+# uso recomendado 
+# pip install -r requirements.txt
